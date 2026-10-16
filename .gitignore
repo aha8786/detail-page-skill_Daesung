@@ -1,0 +1,7 @@
+node_modules/
+output/
+photos/
+references/
+_contact/
+_slices/
+*.zip
