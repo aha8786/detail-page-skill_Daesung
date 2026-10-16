@@ -39,7 +39,7 @@ Claude Code에서 한국 이커머스 상세페이지(가로 610px)를 **기획�
 Claude Code의 개인 스킬 폴더(`~/.claude/skills/`)에 내려받고, 도구 패키지를 설치합니다.
 
 ```powershell
-git clone https://github.com/aha8786/detail-page-skill.git "$env:USERPROFILE\.claude\skills\detail-page"
+git clone https://github.com/aha8786/detail-page-skill_Daesung.git "$env:USERPROFILE\.claude\skills\detail-page"
 npm install --prefix "$env:USERPROFILE\.claude\skills\detail-page\tools"
 ```
 
